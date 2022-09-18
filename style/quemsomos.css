@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #f1ff86;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    margin-left: 30px;
+    font-size: 18px;
+   
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    margin-left: 560px;
+}
+
+.footer {
+    background-color: #f1ff86;
+    text-align: center;
+}
+
+.logotipo{
+    text-align: center;
+}
+
+.container{
+    background-color: #f0feaf;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+h3{
+    text-align: center;
+}
+
