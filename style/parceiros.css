@@ -19,6 +19,8 @@ li {
     display: flex;
     align-items: center;
     margin-left: 560px;
+    text-decoration: none;
+    color: inherit;
 }
 
 .footer {
