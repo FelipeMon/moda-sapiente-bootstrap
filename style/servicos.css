@@ -27,3 +27,41 @@ li {
     background-color: #f1ff86;
     text-align: center;
 }
+
+/*página Serviços*/
+
+.logotipo{
+    text-align: center;
+}
+
+.container{
+    background-color: #f0feaf;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.col-sm:nth-child(4){
+    border: none;
+    text-align: left;
+    margin: 15px;
+}
+
+.col-sm{
+    border: rgb(230, 167, 73) 2px solid;
+    border-radius: 10px;
+    padding: 30px;
+    margin:5px; margin-left: 100px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+

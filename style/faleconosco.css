@@ -24,13 +24,16 @@ li {
 
 /*Formulário Fale Conosco*/
 
+.logotipo{
+    text-align: center;
+}
+
 .container {
     background-color: #f0feaf;
 }
 
 form {
     margin: 10px;
-    margin-top: 20px;
     padding: 70px;
 }
 
