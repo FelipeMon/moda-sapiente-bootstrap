@@ -12,7 +12,7 @@ li {
     margin: 10px;
     margin-left: 30px;
     font-size: 18px;
-   
+
 }
 
 .form {
@@ -30,7 +30,7 @@ li {
 
 /*página Serviços*/
 
-.logotipo{
+.logotipo {
     text-align: center;
 }
 
@@ -40,28 +40,32 @@ li {
     margin-bottom: 50px;
 }
 
-.col-sm:nth-child(4){
-    border: none;
-    text-align: left;
-    margin: 15px;
-}
-
-.col-sm{
+.col-sm {
+    background-color: white;
     border: rgb(230, 167, 73) 2px solid;
     border-radius: 10px;
     padding: 30px;
-    margin:5px; margin-left: 100px;
+    margin: 5px;
+    margin-left: 100px;
     text-align: center;
 }
 
+.lista-item h4 {
+    margin-bottom: 40px;
+}
 
+.lista-item .item-content {
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
+.lista-item h6 {
+    align-self: flex-end;
+}
 
-
-
-
-
-
-
-
-
+h5 {
+    width: 220px;
+    margin-top: 5px;
+}
