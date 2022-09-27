@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #f1ff86;
+    background-color: rgb(230, 167, 73);
 }
 
 li {
@@ -19,34 +19,32 @@ li {
     color: inherit;
 }
 
-.imagemCentro {
-    position: relative;
-    margin-top: 30px;
-    margin-left: 270px;
-    margin-bottom: 10px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    background-color: #f0feaf;
+.logotipo {
+    text-align: center;
+}
+
+.container{
+    border: rgb(230, 167, 73) 1px solid;
+    border-radius: 30px;
 }
 
 .textoHome {
     position: absolute;
-    background-color: #f1ff86;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: beige;
+    border: rgb(230, 167, 73) 1px solid;
+    border-radius: 30px;
     padding: 20px;
     width: 450px;
-    top: 150px;
-    left: 850px;
+    top: 500px;
+    left: 880px;
 }
 
-.logotipoHome {
-    position: absolute;
-    bottom: 100px;
-    margin-left: 20px;
-}
 
 
 
 .footer {
-    background-color: #f1ff86;
+    background-color: rgb(230, 167, 73);
     text-align: center;
 }

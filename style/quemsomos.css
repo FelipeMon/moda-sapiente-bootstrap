@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #f1ff86;
+    background-color: rgb(230, 167, 73);
 }
 
 li {
@@ -20,7 +20,7 @@ li {
 }
 
 .footer {
-    background-color: #f1ff86;
+    background-color: rgb(230, 167, 73);
     text-align: center;
 }
 
@@ -29,7 +29,8 @@ li {
 }
 
 .container{
-    background-color: #f0feaf;
+    border: rgb(230, 167, 73) 1px solid;
+    border-radius: 30px;
     padding: 20px;
     margin-bottom: 10px;
     animation: container 0.3s;  

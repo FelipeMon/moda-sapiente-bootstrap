@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #f1ff86;
+    background-color: rgb(230, 167, 73);
 }
 
 .logo {
@@ -72,18 +72,16 @@ h5 {
 .button {
     margin-top: 20px;
     padding: 20px;
-    border: rgb(230, 167, 73) 0 solid;
+    border: rgb(230, 167, 73) 1px solid;
     border-radius: 50px;
-    background-color: #f0feaf;
 }
 
 .button:hover {
     height: 100px;
-    background-color: #f1ff86;
 }
 
 
 .footer {
-    background-color: #f1ff86;
+    background-color: rgb(230, 167, 73);
     text-align: center;
 }
