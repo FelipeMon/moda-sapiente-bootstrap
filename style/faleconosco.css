@@ -2,8 +2,8 @@
     background-color: rgb(230, 167, 73);
 }
 
-.logo {
-    width: 100px;
+.nav-item{
+    font-family: sans-serif;
 }
 
 li {
@@ -17,9 +17,12 @@ li {
 .form {
     display: flex;
     align-items: center;
-    margin-left: 560px;
+    margin-left: 500px;
     text-decoration: none;
     color: inherit;
+    border: black 1px solid;
+    border-radius: 10px;
+    background-color: rgb(247, 244, 238);
 }
 
 /*Formulário Fale Conosco*/
@@ -42,17 +45,14 @@ form {
     margin: 10px;
 }
 
-h3 {
-    text-align: center;
-}
-
 .btn {
     margin: 10px;
     width: 100px;
 }
 
-
 .footer {
     background-color: rgb(230, 167, 73);
     text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
 }
